@@ -18,5 +18,5 @@
 <img width="40" height="40" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/github.png"></a>
 
 # License
-This project is under <a href="https://github.com/ValentineFernandes/Portfolio/blob/main/LICENSE">MIT</a> license.  
+This project is under <a href="https://github.com/ValentineFernandes/Food-Website/blob/main/LICENSE">MIT</a> license.  
 
