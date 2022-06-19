@@ -1,7 +1,12 @@
-# Food Website
+<h1 align="center">Food Website</h1>
+
+<div align="center">
+<img width="600" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/FoodWebsite.png">
+</div>
+
+# Features 
 ✅ This is a website to buy food online.<br/> 
 ✅ This website is mobile friendly.  
-<img align="left" width="2000px" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img8.jpg">
 
 # Technologies used
 <img src="https://img.shields.io/badge/HTML5-FF3300?style=for-the-badge&logo=html5&logoColor=white">
