@@ -2,7 +2,7 @@
 
 <p align="center">	
    <a href="http://www.linkedin.com/in/valentine-fernandes-75701622b">
-      <img alt="Valentine Fernandes" src="https://img.shields.io/badge/-ValentineFernandes-1AD043?style=flat&logo=Linkedin&logoColor=white" />
+      <img alt="Valentine Fernandes" src="https://img.shields.io/badge/-ValentineFernandes-32CD30?style=flat&logo=Linkedin&logoColor=white" />
    </a>
   <a href="https://github.com/ValentineFernandes/Food-Website/blob/main/LICENSE">
     <img alt="License: MIT" src="https://img.shields.io/github/license/ValentineFernandes/Food-Website?color=#1AD043" />
@@ -15,7 +15,9 @@
 </p>
 
 
-> Foodie is an online meal ordering website where customers may place orders for meal.
+> Foodie is an online meal ordering website where customers can place orders for meal.
+
+> It's a website that's compatible with mobile devices.
 
 
 
@@ -23,9 +25,6 @@
 <img width="600" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/FoodWebsite.png">
 </div>
 
-# Features 
-✅ This is a website to buy food online.<br/> 
-✅ This website is mobile friendly.  
 
 # Technologies used
 <img src="https://img.shields.io/badge/HTML5-FF3300?style=for-the-badge&logo=html5&logoColor=white">
