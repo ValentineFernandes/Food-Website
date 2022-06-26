@@ -4,7 +4,7 @@
    <a href="http://www.linkedin.com/in/valentine-fernandes-75701622b">
       <img alt="Valentine Fernandes" src="https://img.shields.io/badge/-ValentineFernandes-1AD043?style=flat&logo=Linkedin&logoColor=white" />
    </a>
-  <a href="https://github.com/ValentineFernandes/UI-Assignment/blob/main/License">
+  <a href="https://github.com/ValentineFernandes/Food-Website/blob/main/LICENSE">
     <img alt="License: MIT" src="https://img.shields.io/github/license/ValentineFernandes/Food-Website?color=#1AD043" />
   </a>
   <img alt="GitHub Forks" src="https://img.shields.io/github/forks/ValentineFernandes/Food-Website?color=#1AD043" />
