@@ -14,6 +14,11 @@
 <img alt= "Last commit" src="https://img.shields.io/github/last-commit/ValentineFernandes/Food-Website?color=#1AD043" />
 </p>
 
+
+> Foodie is an online meal ordering website where customers may place orders for meal.
+
+
+
 <div align="center">
 <img width="600" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/FoodWebsite.png">
 </div>
